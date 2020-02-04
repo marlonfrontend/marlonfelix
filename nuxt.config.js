@@ -50,8 +50,8 @@ export default {
   */
   axios: {
   },
-  
-  buildDir: 'docs/',
+
+  buildDir: 'docs',
 
   /*
   ** Build configuration
