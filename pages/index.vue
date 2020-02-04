@@ -61,7 +61,7 @@ export default {
       max-width: 580px;
     }
   }
-  section {
+  .skills, .contact {
     height: 100vh;
     padding: 40px 0;
     display: flex;
